@@ -1,1 +1,12 @@
 
+{
+  "version": "0.1.0",
+  "notes": "salemdomain restaurant1",
+  "pub_date": "2026-11-26T11:36:39Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "",
+      "url": ""
+    }
+  }
+}
