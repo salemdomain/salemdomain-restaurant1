@@ -1,12 +1,12 @@
 
 {
-  "version": "0.1.0",
+  "version": "0.1.1",
   "notes": "salemdomain restaurant1",
   "pub_date": "2026-11-26T11:36:39Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "",
-      "url": ""
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdmRGYlZLRkp5WmJjb0RxZCs3Q0VqZjZTdFVSU3d0RVZ2bXg2RDZQZFVRWWNIZ0hkSlI0b2R3Z3NEaFA1ODh0enNRcmI4VHR0TW5rcXVOaXllTDBkUVNBeHhUSGxPb0FZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NjkyODU5CWZpbGU6U2FsZW1Eb21haW5fMC4wLjNfeDY0LXNldHVwLmV4ZQpFZUxtK2l1UVR5OTkvOVpZdHBmZzQvZ3VNMTN4S0ZlYnBSWWxLTDRseWlMZGYxbXFVVWpIQWxjYW1NbDJMYmk0S0p1S2hnVVgwT0Zob3kwR0d4MnJDUT09Cg==",
+      "url": "https://github.com/salemdomain/salemdomain-mobiletech/releases/download/v0.0.3/SalemDomain_0.0.3_x64-setup.exe"
     }
   }
 }
